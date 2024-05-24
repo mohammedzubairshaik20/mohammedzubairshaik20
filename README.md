@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced neural network architectures and techniques in deep learning to further enhance my data science skills.**
 
-- 👨‍💻 All of my projects are available at [https://mohammedzubairshaik.com/](https://mohammedzubairshaik.com/)
+- 👨‍💻 All of my projects are showcased on my portfolio website: [https://mohammedzubairshaik.com/](https://mohammedzubairshaik.com/)
 
 - 📝 I regularly write articles on [https://mohammedzubairshaik.com/](https://mohammedzubairshaik.com/)
 
