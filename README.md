@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zubair Shaik</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Data Visualization Expert</h3>
+<h3 align="center">Data Professional | Machine Learning Enthusiast | Data Visualization Expert</h3>
 
 - 🔭 I’m currently working on **enhancing machine learning algorithms for real-time data analysis applications.**
 
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **data analytics, machine learning, deep learning applications, or creating dynamic data visualizations with Python and R.**
 
-- 📫 How to reach me **mohammedzubairshaik@outlook.com**
+- 📫 How to reach me **mohammedway96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammedzubairshaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzubairshaik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammedway96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzubairshaik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
